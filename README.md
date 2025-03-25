@@ -38,7 +38,7 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/ricardo-tchakounte-kuebia-6208b7190)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-tchakounte-kuebia-6208b7190)  
 - 💌 ricardo.kuebiatchakounte@gmail.com
 
 Thanks for stopping by — feel free to explore my repos or reach out!
